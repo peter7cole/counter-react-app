@@ -1,7 +1,7 @@
 # Counter React App
 
-**Version** 1.0.4  
 **Author** Peter Cole
+**Version** 1.0.4
 
 ## Overview
 
